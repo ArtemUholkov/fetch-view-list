@@ -1,0 +1,8 @@
+.card {
+  width: 25%;
+  padding: 25px;
+}
+.img {
+  max-width: 90%;
+  max-height: 50%;
+}
